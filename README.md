@@ -32,7 +32,7 @@
         <br>
         <img src="https://img.shields.io/badge/Durum-In--House%20%2F%20Kapalı-FF4500?style=for-the-badge&logo=lock&logoColor=white" />
         <br><br>
-        <p align="left">Projeler tamamen <b>kendi sunucularıma özel</b>. Odak noktam; stabilite, performans ve kullanıcı deneyimi.</p>
+        <p align="left">Projeler tamamen <b>kendi sunucularıma özel</b>. Odak noktam stabilite, performans ve kullanıcı deneyimi.</p>
       </td>
     </tr>
   </table>
