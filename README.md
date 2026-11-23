@@ -6,10 +6,7 @@
 ![](https://streak-stats.demolab.com/?user=rexi489&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rexi489&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=rexi489&icon=1&color=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=rexi489&icon=2&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
