@@ -1,4 +1,4 @@
-# Hello 👋, I'm EZR
+# Hello 👋 I'm EZR
 
 Just someone who enjoys coding, learning new things, improving along the way, and creating something new. Always curious, always learning.
 
